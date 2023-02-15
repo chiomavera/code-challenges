@@ -1,5 +1,6 @@
 // creating a nested array in reverse order
 
+let bigarr = []
 let extctr = 1;
 for (let i = 0; i < 3; i++) {
   let littleArr = [];
